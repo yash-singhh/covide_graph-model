@@ -21,6 +21,39 @@ Pandas for data manipulation
 Geospatial libraries for mapping (optional, if applicable)
 Machine Learning libraries for prediction models (optional)
 Getting Started:
+
+
+
+Description:
+This project aims to provide a comprehensive visualization of COVID-19 data through graphs, offering insights into the pandemic's trends. It leverages data analysis and visualization techniques to create informative graphs, empowering users with a deeper understanding of the data.
+
+
+How to Use:
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/covid-data-visualization.git
+Install Dependencies:
+
+Copy code
+pip install -r requirements.txt
+Run the Application:
+
+Copy code
+python app.py
+Access the Dashboard:
+Open a web browser and navigate to http://localhost:5000 to interact with the COVID-19 data graphs.
+
+Contributions:
+Contributions are welcome! Feel free to enhance features, optimize code, or address issues by submitting pull requests.
+
+License:
+This project is licensed under the [LICENSE_NAME] License. See the LICENSE.md file for details.
+
+Sources:
+GitHub - COVID-19 Data Analysis
+GitHub - COVID-19 Data Visualization
 Clone the repository to your local machine.
 Install the required dependencies using the provided requirements.txt file.
 Run the main script to generate and interact with COVID-19 visualizations.
